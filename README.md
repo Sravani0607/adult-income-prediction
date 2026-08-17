@@ -110,6 +110,20 @@ Click **Load Sample**, then click **Predict Income**. The GUI displays the predi
 
 The prediction shown in the screenshot should be the actual output produced by the trained models. Do not manually invent an accuracy or prediction result.
 
+## Output Screenshots
+
+### 1. Model Evaluation Output
+
+The following screenshot shows the performance of Logistic Regression and KNN, including accuracy, precision, recall, and confusion matrix.
+
+![Model Evaluation Output](screenshots/model_output.png)
+
+### 2. Tkinter GUI Prediction
+
+The following screenshot shows the Tkinter GUI with sample input and income prediction results.
+
+![Tkinter GUI Prediction](screenshots/gui_prediction.png)
+
 ## 9. GitHub Submission
 
 Create a **public** GitHub repository, upload the project files, and submit the repository URL.
