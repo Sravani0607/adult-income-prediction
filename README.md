@@ -122,7 +122,7 @@ The following screenshot shows the performance of Logistic Regression and KNN, i
 
 The following screenshot shows the Tkinter GUI with sample input and income prediction results.
 
-![Tkinter GUI Prediction](screenshots/gui_prediction.png)
+![Tkinter GUI Prediction](screenshots/gui_prediction..png)
 
 ## 9. GitHub Submission
 
