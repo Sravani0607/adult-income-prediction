@@ -140,5 +140,5 @@ Before submission, verify:
 
 ## 10. Student Details
 
-**Name:** Sravani Pendyala  
+**Name:** SRAVANI , GREESHMITHA , ANIL KUMAR , POOJA , SONY
 **Topic:** Adult Income Prediction using Logistic Regression and KNN
