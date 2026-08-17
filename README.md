@@ -124,6 +124,11 @@ The following screenshot shows the Tkinter GUI with sample input and income pred
 
 ![Tkinter GUI Prediction](screenshots/gui_prediction..png)
 
+The following screenshot shows the Tkinter GUI with sample input and income prediction results.
+
+![Tkinter GUI Prediction](screenshots/gui_prediction2.png)
+
+
 ## 9. GitHub Submission
 
 Create a **public** GitHub repository, upload the project files, and submit the repository URL.
